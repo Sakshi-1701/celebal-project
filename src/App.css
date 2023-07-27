@@ -233,7 +233,7 @@ h1 {
   width: 60%;
   height: 100%;
   float: left;
-  background-image: url("https://unsplash.com/photos/-FKhxUvwImw");
+  background-image: url("./components/images/background1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
